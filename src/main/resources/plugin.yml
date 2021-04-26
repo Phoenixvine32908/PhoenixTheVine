@@ -1,0 +1,11 @@
+name: PhoenixOnTheVine
+version: ${project.version}
+main: me.phoenixvine.main.Main
+api-version: 1.16
+authors: [ Phoenixvine ]
+description: A Addon Suite for DiscordRSV
+website: https://discord.gg/G9nr8KXjKP
+depend: [DiscordRSV, AuctionMaster]
+commands:
+  freet:
+  gives you end stone bricks and netherite
